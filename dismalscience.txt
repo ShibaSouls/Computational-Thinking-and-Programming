@@ -1,0 +1,21 @@
+Larry Page
+American
+Artificial Intelligence
+Dennis Ritchie
+American
+Inventor of C programming language
+Linus Torvalds
+Finnish-American
+Creator of Linux kernal
+Satoshi Nakamoto
+Japanese
+Claims to have designed Bitcoin/creating first blockchain database
+Alan Turing
+British
+Invented Turing machine
+Tim Berners-Lee
+British
+Invented World Wide Web
+Grace Hopper
+American
+Popularized debugging, emphasized importance of machine-independent programming languages
